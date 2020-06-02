@@ -1,0 +1,40 @@
+RoundSys(V1) by Sephirotess: 
+
+
+Options:
+
+- 8 languages: English, French, Spanish, Italian, Portuguese, German, Russian & Serbian,
+- text color, font face, font size... can be modified,
+- easy configuration with the "settings" panel.
+
+- Serbian language thanks to HipHopium (http://hiphopium.deviantart.com/),
+- Spanish language thanks to Agelyk (http://agelyk.deviantart.com/),
+- German language thanks to luzifersenpai (http://luzifersenpai.deviantart.com/).
+
+
+You can increase the size of the skin with the left click. Use the middle click to decrease.
+Use the central orb, if you want to change the colors. 
+
+
+RoundSys: skin with arcs. Same colors for arcs & information:
+
+- battery: battery level,
+
+- CPU: usage,
+
+- RAM: free RAM (mouse over for full information), 
+
+- SWAP: free SWAP (mouse over for full information),
+
+- HDD: letter, name & free space (mouse over for full information),
+
+- Volume: left click on the percentage increase sound. Right click decrease sound,
+
+- full date (local language) & time.
+
+
+
+Wallpaper "leaves". Original author Jobs Maryland.
+https://www.artsfon.com/92932-glare-branch-background-leaves.html
+
+Thanks.

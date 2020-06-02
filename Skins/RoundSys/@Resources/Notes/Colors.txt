@@ -1,0 +1,22 @@
+[Variables]
+;You can change the colors here 
+;Use the ColorSpectrum ("settings" folder) to have an idea & copy the value here
+;Don't forget to update the skin after :-).
+
+;Battery
+CC1=167,210,255
+
+;CPU
+CC2=78,255,245
+
+;RAM
+CC3=195,175,255
+
+;SWAP
+CC4=151,114,255
+
+;HDD
+CC5=196,255,118
+
+;Volume
+CC6=255,192,131
